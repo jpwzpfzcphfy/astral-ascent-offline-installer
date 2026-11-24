@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+An engaging roguelite game featuring immersive gameplay, rich mechanics, and hours of entertainment. Experience Astral Ascent in its full glory.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,10 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | 2.5 GHz | Intel Core i5 / Apple M1 |
+| **Memory** | 1536 MB RAM | 1536 MB RAM |
+| **Storage** | 1052 MB available space | 1052 MB available space |
+| **OS *** | Windows 7 / Windows 8 / Windows 10 | Windows 7 / Windows 8 / Windows 10 |
 
 ---
 
